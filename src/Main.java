@@ -7,6 +7,8 @@ public class Main {
         String s="zhong ";
         System.out.println(s);
         int a=2;
+        System.out.println(a);
+
 
     }
 
